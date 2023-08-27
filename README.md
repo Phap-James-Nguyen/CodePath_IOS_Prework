@@ -19,12 +19,32 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+
+
+https://github.com/jamesn1227/CodePath_IOS_Prework/assets/89468003/3e7ae422-823d-4836-8b99-229ad372f2f9
+
+
+
+
+
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+
+![PreWorkGIF](https://github.com/jamesn1227/CodePath_IOS_Prework/assets/89468003/63e8bbc6-c045-4df3-a11d-2444e91507b9)
+
+
+
+
+
+
+
+
 
 ## App Brainstorming (Step 4)
 
