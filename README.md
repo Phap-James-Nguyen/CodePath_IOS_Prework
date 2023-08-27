@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - ColorChanger
 
 Submitted by: Phap Nguyen
 
